@@ -50,4 +50,4 @@ Pricing Strategy: The analysis suggests revising ticket prices based on aircraft
 Customer Experience: Maintaining a balance between profitability and customer satisfaction is crucial. Enhancing the overall customer experience could lead to higher loyalty and occupancy rates.
 
 
-By adopting a data-driven approach, the airline can navigate the challenges posed by environmental regulations, increased costs, and market conditions while ensuring long-term success.
+
